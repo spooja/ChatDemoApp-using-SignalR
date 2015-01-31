@@ -1,0 +1,19 @@
+{
+  "name": "ChatDemo",
+  "version": "1.0.0",
+  "authors": [
+    "spooja <spooja0512@gmail.com>"
+  ],
+  "description": "demo app",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
